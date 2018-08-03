@@ -10,7 +10,6 @@ class num
 	{
 		
 		Scanner sc=new Scanner(System.in);
-		String str=sc.nextLine();
 			int[] a=new int[10];
 		for(int i=0;i<10;i++)
 		{
