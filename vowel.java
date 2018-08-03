@@ -21,7 +21,7 @@ class vowel
 				System.out.println("yes");
 				break;
 			}
-			else if(str.charAt(i)=='A' || str.charAt(i)=='E' || str.charAt(i)=='I' || str.charAT(i)=='O' || str.charAt(i)=='U')
+			else if(str.charAt(i)=='A' || str.charAt(i)=='E' || str.charAt(i)=='I' || str.charAt(i)=='O' || str.charAt(i)=='U')
 			{
 				System.out.println("yes");
 				break;
